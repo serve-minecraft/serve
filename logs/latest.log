@@ -1,0 +1,346 @@
+[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:53:17] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[15:53:17] [Server thread/INFO]: Loading properties
+[15:53:17] [Server thread/INFO]: Default game type: SURVIVAL
+[15:53:17] [Server thread/INFO]: Generating keypair
+[15:53:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:53:17] [Server thread/INFO]: Using default channel type
+[15:53:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:53:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:53:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:53:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:53:19] [Server thread/INFO]: Preparing level "world"
+[15:53:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:53:21] [Server thread/INFO]: Loaded 6 recipes
+[15:53:22] [Server thread/INFO]: Loaded 811 advancements
+[15:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:53:30] [Server thread/INFO]: Preparing spawn area: 6%
+[15:53:30] [Server thread/INFO]: Time elapsed: 8004 ms
+[15:53:30] [Server thread/INFO]: Done (11.274s)! For help, type "help"
+[15:53:30] [Server thread/INFO]: Starting GS4 status listener
+[15:53:30] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[16:01:44] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63511] logged in with entity id 348 at (-112.88756090980672, 64.0, -79.91574456292432)
+[16:01:44] [Server thread/INFO]: NatdanaiKH joined the game
+[16:01:44] [Server thread/INFO]: NatdanaiKH has made the advancement [Isn't It Iron Pick]
+[16:01:44] [Server thread/INFO]: NatdanaiKH has made the advancement [Acquire Hardware]
+[16:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[16:02:02] [Server thread/INFO]: NatdanaiKH has made the advancement [Cover Me With Diamonds]
+[16:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[16:06:36] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
+[16:06:36] [Server thread/INFO]: NatdanaiKH left the game
+[16:07:03] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63532] logged in with entity id 957 at (-137.1835940357165, 66.0, -74.20731143998614)
+[16:07:04] [Server thread/INFO]: NatdanaiKH joined the game
+[16:08:26] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
+[16:08:26] [Server thread/INFO]: NatdanaiKH left the game
+[16:09:07] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63552] logged in with entity id 1081 at (-115.75018747386338, 63.0, -80.03279005962317)
+[16:09:07] [Server thread/INFO]: NatdanaiKH joined the game
+[16:09:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1204, l='world', x=-134.22, y=64.32, z=-112.22]
+[16:12:21] [Server thread/INFO]: Aw14[/192.168.137.149:49971] logged in with entity id 1648 at (-139.8053117843757, 68.0, -135.69999998807907)
+[16:12:21] [Server thread/INFO]: Aw14 joined the game
+[16:12:52] [Server thread/INFO]: NatdanaiKH has made the advancement [We Need to Go Deeper]
+[16:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[16:13:32] [Server thread/WARN]: NatdanaiKH moved too quickly! -10.066750022423701,0.0,0.8452922726031105
+[16:13:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[16:15:16] [Server thread/INFO]: NatdanaiKH has made the advancement [Take Aim]
+[16:19:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3692, l='world', x=-131.70, y=63.99, z=-110.54]
+[16:19:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3692, l='world', x=-131.70, y=63.99, z=-110.54]
+[16:20:50] [Server thread/INFO]: Aw14 has made the advancement [What a Deal!]
+[16:21:59] [Server thread/INFO]: NatdanaiKH has made the advancement [Monster Hunter]
+[16:27:25] [Server thread/INFO]: NatdanaiKH has made the advancement [Sweet Dreams]
+[16:31:25] [Server thread/INFO]: qqq[/192.168.137.149:50216] logged in with entity id 5537 at (-143.68434932319462, 30.0, -233.43802758303224)
+[16:31:25] [Server thread/INFO]: qqq joined the game
+[16:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:36:27] [Server thread/INFO]: NatdanaiKH has made the advancement [Diamonds!]
+[16:39:48] [Server thread/INFO]: Aw14 has made the advancement [Local Brewery]
+[16:41:21] [Server thread/INFO]: NatdanaiKH has made the advancement [Stone Age]
+[16:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:43:53] [Server thread/INFO]: qqq lost connection: Disconnected
+[16:43:53] [Server thread/INFO]: qqq left the game
+[16:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[16:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[16:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[16:51:01] [Server thread/INFO]: Narawich[/127.0.0.1:65006] logged in with entity id 9396 at (-146.48853904073812, 66.0, -73.87424576157775)
+[16:51:01] [Server thread/INFO]: Narawich joined the game
+[16:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8758ms or 175 ticks behind
+[16:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
+[16:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[16:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[16:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:57:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10758, l='world', x=-147.21, y=64.32, z=-119.31]
+[16:57:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10758, l='world', x=-147.21, y=64.32, z=-119.31]
+[16:57:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10758, l='world', x=-147.21, y=64.32, z=-119.31]
+[16:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[16:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:59:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[17:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17:01:43] [Server thread/INFO]: Narawich has made the advancement [Ice Bucket Challenge]
+[17:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[17:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6929ms or 138 ticks behind
+[17:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[17:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9192ms or 183 ticks behind
+[17:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
+[17:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[17:06:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
+[17:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
+[17:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4570ms or 91 ticks behind
+[17:07:01] [Server thread/WARN]: Narawich moved too quickly! -15.749825043903911,-5.766834411571722,6.113978479730747
+[17:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[17:07:31] [Server thread/INFO]: NatdanaiKH has made the advancement [A Seedy Place]
+[17:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[17:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8309ms or 166 ticks behind
+[17:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[17:10:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14543, l='world', x=-132.58, y=64.32, z=-115.79]
+[17:10:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14543, l='world', x=-132.58, y=64.32, z=-115.79]
+[17:10:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14543, l='world', x=-132.58, y=64.32, z=-115.79]
+[17:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
+[17:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
+[17:13:35] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID c2cedb5a-f9ad-440e-9e7a-5ce89cd9c781
+[17:13:35] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID d104a3d9-8c60-4cbb-a951-665ebe30354f
+[17:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
+[17:13:54] [Server thread/WARN]: Aw14 moved too quickly! 3.2518498732115404,4.074554579996132,-17.312487805184446
+[17:13:54] [Server thread/WARN]: Narawich moved too quickly! 3.1000049806311836,-0.9537823132881726,-17.593921386566763
+[17:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5222ms or 104 ticks behind
+[17:14:48] [Server thread/INFO]: Narawich has made the advancement [Eye Spy]
+[17:14:56] [Server thread/INFO]: Aw14 has made the advancement [Eye Spy]
+[17:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
+[17:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[17:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5338ms or 106 ticks behind
+[17:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[17:26:24] [Server thread/WARN]: Narawich moved too quickly! -1.2123143565394372,3.252203340253729,-9.423880505031015
+[17:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[17:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:31:29] [Server thread/WARN]: Aw14 moved too quickly! -0.325129221346117,1.2000000476837158,-9.992594388902035
+[17:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[17:33:08] [Server thread/INFO]: NatdanaiKH lost connection: Timed out
+[17:33:08] [Server thread/INFO]: NatdanaiKH left the game
+[17:33:47] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63651] logged in with entity id 21825 at (-132.35047615200995, 67.0, -148.6005792812493)
+[17:33:47] [Server thread/INFO]: NatdanaiKH joined the game
+[17:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[17:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
+[17:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17:40:31] [Server thread/WARN]: Aw14 moved too quickly! 5.697807906894809,0.0625,8.341640497781441
+[17:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15047ms or 300 ticks behind
+[17:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
+[17:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[17:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18128ms or 362 ticks behind
+[17:43:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23014, l='world', x=-148.93, y=64.00, z=-103.36]
+[17:43:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23014, l='world', x=-148.93, y=64.00, z=-103.36]
+[17:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11320ms or 226 ticks behind
+[17:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[17:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[17:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
+[17:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7254ms or 145 ticks behind
+[17:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6202ms or 124 ticks behind
+[17:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5601ms or 112 ticks behind
+[17:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4966ms or 99 ticks behind
+[17:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[17:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[17:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[17:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:47:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[17:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[17:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:48:25] [Server thread/WARN]: Narawich moved too quickly! 10.11948220119308,-0.07840000152587834,0.43614714368587215
+[17:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[17:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2937ms or 58 ticks behind
+[17:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4262ms or 85 ticks behind
+[17:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
+[17:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5583ms or 111 ticks behind
+[17:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[17:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[17:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[17:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:53:22] [Server thread/INFO]: NatdanaiKH lost connection: Timed out
+[17:53:22] [Server thread/INFO]: NatdanaiKH left the game
+[17:53:41] [Server thread/INFO]: Aw14 has reached the goal [Zombie Doctor]
+[17:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
+[17:54:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:54:25] [Server thread/INFO]: NS1[/127.0.0.1:65327] logged in with entity id 24879 at (-143.42336831859313, 65.9375, -76.01299370405258)
+[17:54:25] [Server thread/INFO]: NS1 joined the game
+[17:54:43] [Server thread/INFO]: NS1 lost connection: Disconnected
+[17:54:43] [Server thread/INFO]: NS1 left the game
+[17:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10876ms or 217 ticks behind
+[17:55:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[17:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11751ms or 235 ticks behind
+[17:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7567ms or 151 ticks behind
+[17:56:13] [Server thread/INFO]: NatdanaiKH[/10.0.123.218:63978] logged in with entity id 25093 at (-136.97018100028424, 63.0, -127.6786673962603)
+[17:56:13] [Server thread/INFO]: NatdanaiKH joined the game
+[17:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[17:56:15] [Server thread/INFO]: AFK fish[/127.0.0.1:65426] logged in with entity id 25105 at (-138.82112696815736, 66.0, -64.03183216589133)
+[17:56:15] [Server thread/INFO]: AFK fish joined the game
+[17:56:39] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[17:56:39] [Server thread/INFO]: Aw14 left the game
+[17:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17395ms or 347 ticks behind
+[17:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[17:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[17:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[17:57:53] [Server thread/INFO]: AFK fish lost connection: Disconnected
+[17:57:53] [Server thread/INFO]: AFK fish left the game
+[17:57:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[17:58:27] [Server thread/INFO]: Aw14[/10.0.30.181:57328] logged in with entity id 25366 at (-147.6580471522277, 65.11425927506424, -173.818122905788)
+[17:58:27] [Server thread/INFO]: Aw14 joined the game
+[17:59:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[17:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14302ms or 286 ticks behind
+[18:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10738ms or 214 ticks behind
+[18:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:01:11] [Server thread/INFO]: AFK fish[/127.0.0.1:49193] logged in with entity id 25795 at (-115.37703413250881, 63.0, -79.71017338247859)
+[18:01:11] [Server thread/INFO]: AFK fish joined the game
+[18:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15067ms or 301 ticks behind
+[18:01:40] [Server thread/INFO]: AFK fish lost connection: Disconnected
+[18:01:40] [Server thread/INFO]: AFK fish left the game
+[18:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[18:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
+[18:03:43] [Server thread/INFO]: NatdanaiKH lost connection: Timed out
+[18:03:43] [Server thread/INFO]: NatdanaiKH left the game
+[18:04:57] [Server thread/INFO]: NatdanaiKH[/10.0.123.218:64008] logged in with entity id 26751 at (-122.29776500274959, 64.0, -144.8250057100039)
+[18:04:57] [Server thread/INFO]: NatdanaiKH joined the game
+[18:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3517ms or 70 ticks behind
+[18:08:18] [Server thread/WARN]: Aw14 moved too quickly! -6.533890976923544,-2.7531999805212024,7.284942823615218
+[18:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[18:09:41] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[18:09:41] [Server thread/INFO]: Aw14 left the game
+[18:09:41] [Server thread/INFO]: Aw14[/192.168.137.149:57358] logged in with entity id 28004 at (-112.70117824533273, 67.0, -106.61336106461182)
+[18:09:41] [Server thread/INFO]: Aw14 joined the game
+[18:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[18:10:30] [Server thread/WARN]: Aw14 moved too quickly! -9.904377053187929,-0.02442408821369213,2.386856920475111
+[18:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:10:50] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/28352, l='world', x=-224.56, y=59.10, z=-120.74]
+[18:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18:11:15] [Server thread/WARN]: Aw14 moved too quickly! -6.908027895340197,0.0,-7.409978522065018
+[18:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[18:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18:12:17] [Server thread/WARN]: NatdanaiKH moved too quickly! 2.6832297154053606,0.0,9.701521118836425
+[18:12:17] [Server thread/WARN]: Aw14 moved too quickly! -9.939209324055938,1.130906499714527,-2.043885152049512
+[18:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[18:13:01] [Server thread/INFO]: <Aw14> tgrg
+[18:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[18:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:13:40] [Server thread/INFO]: NatdanaiKH has made the advancement [Not Today, Thank You]
+[18:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[18:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[18:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
+[18:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4078ms or 81 ticks behind
+[18:16:43] [Server thread/WARN]: Narawich moved too quickly! -5.671374688331454,0.0,-8.52518682880222
+[18:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[18:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[18:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9525ms or 190 ticks behind
+[18:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7343ms or 146 ticks behind
+[18:22:05] [Server thread/WARN]: NatdanaiKH moved too quickly! -2.181998674113288,-0.0625,-10.016719237631733
+[18:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
+[18:26:52] [Server thread/INFO]: <Aw14> 674 -1527
+[18:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[18:27:21] [Server thread/INFO]: <Narawich> x = 84
+[18:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:28:24] [Server thread/INFO]: NatdanaiKH hit the ground too hard
+[18:28:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34339, l='world', x=-148.97, y=64.00, z=-103.63]
+[18:32:13] [Server thread/WARN]: NatdanaiKH moved too quickly! -1.3944436304795431,-0.004799122994072036,9.985290222706794
+[18:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3192ms or 63 ticks behind
+[18:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:36:56] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
+[18:36:56] [Server thread/INFO]: NatdanaiKH left the game
+[18:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18:37:18] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[18:37:18] [Server thread/INFO]: Aw14 left the game
+[18:37:19] [Server thread/INFO]: NatdanaiKH[/10.0.123.218:64045] logged in with entity id 36310 at (-130.21621172356708, 63.0, -109.74375000596051)
+[18:37:19] [Server thread/INFO]: NatdanaiKH joined the game
+[18:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8009ms or 160 ticks behind
+[18:37:49] [Server thread/INFO]: Aw14[/192.168.137.149:57483] logged in with entity id 36419 at (132.50365509274204, 48.121296840539195, -159.39514360173493)
+[18:37:49] [Server thread/INFO]: Aw14 joined the game
+[18:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:02:28] [Server thread/INFO]: NatdanaiKH has made the advancement [What a Deal!]
+[19:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[19:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
+[19:10:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42995, l='world', x=-149.04, y=64.00, z=-103.10]
+[19:10:34] [Server thread/INFO]: Narawich has made the advancement [Best Friends Forever]
+[19:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19:11:50] [Server thread/WARN]: Horse moved wrongly!
+[19:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[19:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[19:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:16:59] [Server thread/INFO]: Narawich lost connection: Disconnected
+[19:16:59] [Server thread/INFO]: Narawich left the game
+[19:17:13] [Server thread/INFO]: Narawich[/192.168.137.1:50777] logged in with entity id 45495 at (-389.6330062393495, 67.0, -469.5512876764352)
+[19:17:13] [Server thread/INFO]: Narawich joined the game
+[19:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[19:18:37] [Server thread/INFO]: <Narawich> -384 -451
+[19:19:14] [Server thread/INFO]: <Narawich> -48 -56
+[19:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[19:23:05] [Server thread/INFO]: NatdanaiKH was slain by Iron Golem
+[19:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[19:33:02] [Server thread/WARN]: Aw14 moved too quickly! 1.7129823785052452,0.0,9.856590044959916
+[19:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[19:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[19:45:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[19:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:53:13] [Server thread/WARN]: Aw14 moved too quickly! 1.0642692336327855,0.0,10.156985764379783
+[19:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[19:57:25] [Server thread/INFO]: Narawich lost connection: Disconnected
+[19:57:25] [Server thread/INFO]: Narawich left the game
+[20:06:18] [Server thread/INFO]: NatdanaiKH has made the advancement [Suit Up]
+[20:15:38] [Server thread/INFO]: Narawich[/127.0.0.1:52153] logged in with entity id 60196 at (-120.65385062902078, 64.0, -90.65630821044961)
+[20:15:38] [Server thread/INFO]: Narawich joined the game
+[20:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[20:48:28] [Server thread/INFO]: NatdanaiKH has made the advancement [Local Brewery]
+[20:56:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66767, l='world', x=-126.50, y=64.26, z=-143.44]
+[20:56:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66767, l='world', x=-126.50, y=64.26, z=-143.44]
+[20:57:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/67007, l='world', x=-130.93, y=65.32, z=-151.47]
+[20:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:59:46] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[20:59:46] [Server thread/INFO]: Aw14 left the game
+[21:00:24] [Server thread/INFO]: Narawich lost connection: Disconnected
+[21:00:24] [Server thread/INFO]: Narawich left the game
+[21:02:10] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
+[21:02:10] [Server thread/INFO]: NatdanaiKH left the game
+[22:25:49] [Server thread/INFO]: Stopping the server
+[22:25:49] [Server thread/INFO]: Stopping server
+[22:25:49] [Server thread/INFO]: Saving players
+[22:25:49] [Server thread/INFO]: Saving worlds
+[22:25:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
