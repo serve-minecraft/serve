@@ -308,6 +308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-08-19 18:40:27 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2019-08-18 17:32:56 +0700"
@@ -461,6 +467,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-15 21:35:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
     },
     "done": true
   },
@@ -641,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-15 21:11:20 +0700"
@@ -740,6 +758,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2019-08-16 23:11:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-08-19 18:40:27 +0700"
     },
     "done": true
   },
@@ -1210,6 +1234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-08-19 18:40:27 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-16 23:25:41 +0700"
@@ -1405,13 +1435,20 @@
       "cooked_cod": "2019-08-17 22:31:42 +0700",
       "bread": "2019-08-17 22:25:06 +0700",
       "suspicious_stew": "2019-08-15 21:50:40 +0700",
-      "cooked_chicken": "2019-08-15 21:08:45 +0700"
+      "cooked_chicken": "2019-08-15 21:08:45 +0700",
+      "cooked_salmon": "2019-08-19 18:09:42 +0700"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-16 01:06:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
     },
     "done": true
   },
@@ -1424,6 +1461,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-08-15 21:39:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
     },
     "done": true
   },
@@ -2047,6 +2090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2019-08-19 18:12:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-08-18 18:04:22 +0700"
@@ -2122,6 +2171,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-16 12:02:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
     },
     "done": true
   },
@@ -2233,6 +2288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2019-08-17 20:01:27 +0700"
@@ -2275,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-08-16 11:50:22 +0700"
@@ -2290,6 +2357,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-08-15 23:00:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-08-19 18:12:29 +0700"
     },
     "done": true
   },

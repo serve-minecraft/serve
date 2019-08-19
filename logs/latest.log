@@ -1,346 +1,346 @@
-[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:53:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:17] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[15:53:17] [Server thread/INFO]: Loading properties
-[15:53:17] [Server thread/INFO]: Default game type: SURVIVAL
-[15:53:17] [Server thread/INFO]: Generating keypair
-[15:53:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:53:17] [Server thread/INFO]: Using default channel type
-[15:53:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:53:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:53:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:53:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:53:19] [Server thread/INFO]: Preparing level "world"
-[15:53:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[15:53:21] [Server thread/INFO]: Loaded 6 recipes
-[15:53:22] [Server thread/INFO]: Loaded 811 advancements
-[15:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:27] [Server thread/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[15:53:30] [Server thread/INFO]: Preparing spawn area: 6%
-[15:53:30] [Server thread/INFO]: Time elapsed: 8004 ms
-[15:53:30] [Server thread/INFO]: Done (11.274s)! For help, type "help"
-[15:53:30] [Server thread/INFO]: Starting GS4 status listener
-[15:53:30] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[16:01:44] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63511] logged in with entity id 348 at (-112.88756090980672, 64.0, -79.91574456292432)
-[16:01:44] [Server thread/INFO]: NatdanaiKH joined the game
-[16:01:44] [Server thread/INFO]: NatdanaiKH has made the advancement [Isn't It Iron Pick]
-[16:01:44] [Server thread/INFO]: NatdanaiKH has made the advancement [Acquire Hardware]
-[16:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[16:02:02] [Server thread/INFO]: NatdanaiKH has made the advancement [Cover Me With Diamonds]
-[16:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
-[16:06:36] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
-[16:06:36] [Server thread/INFO]: NatdanaiKH left the game
-[16:07:03] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63532] logged in with entity id 957 at (-137.1835940357165, 66.0, -74.20731143998614)
-[16:07:04] [Server thread/INFO]: NatdanaiKH joined the game
-[16:08:26] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
-[16:08:26] [Server thread/INFO]: NatdanaiKH left the game
-[16:09:07] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63552] logged in with entity id 1081 at (-115.75018747386338, 63.0, -80.03279005962317)
-[16:09:07] [Server thread/INFO]: NatdanaiKH joined the game
-[16:09:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1204, l='world', x=-134.22, y=64.32, z=-112.22]
-[16:12:21] [Server thread/INFO]: Aw14[/192.168.137.149:49971] logged in with entity id 1648 at (-139.8053117843757, 68.0, -135.69999998807907)
-[16:12:21] [Server thread/INFO]: Aw14 joined the game
-[16:12:52] [Server thread/INFO]: NatdanaiKH has made the advancement [We Need to Go Deeper]
-[16:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
-[16:13:32] [Server thread/WARN]: NatdanaiKH moved too quickly! -10.066750022423701,0.0,0.8452922726031105
-[16:13:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
-[16:15:16] [Server thread/INFO]: NatdanaiKH has made the advancement [Take Aim]
-[16:19:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3692, l='world', x=-131.70, y=63.99, z=-110.54]
-[16:19:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3692, l='world', x=-131.70, y=63.99, z=-110.54]
-[16:20:50] [Server thread/INFO]: Aw14 has made the advancement [What a Deal!]
-[16:21:59] [Server thread/INFO]: NatdanaiKH has made the advancement [Monster Hunter]
-[16:27:25] [Server thread/INFO]: NatdanaiKH has made the advancement [Sweet Dreams]
-[16:31:25] [Server thread/INFO]: qqq[/192.168.137.149:50216] logged in with entity id 5537 at (-143.68434932319462, 30.0, -233.43802758303224)
-[16:31:25] [Server thread/INFO]: qqq joined the game
-[16:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:36:27] [Server thread/INFO]: NatdanaiKH has made the advancement [Diamonds!]
-[16:39:48] [Server thread/INFO]: Aw14 has made the advancement [Local Brewery]
-[16:41:21] [Server thread/INFO]: NatdanaiKH has made the advancement [Stone Age]
-[16:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:43:53] [Server thread/INFO]: qqq lost connection: Disconnected
-[16:43:53] [Server thread/INFO]: qqq left the game
-[16:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[16:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
-[16:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
-[16:51:01] [Server thread/INFO]: Narawich[/127.0.0.1:65006] logged in with entity id 9396 at (-146.48853904073812, 66.0, -73.87424576157775)
-[16:51:01] [Server thread/INFO]: Narawich joined the game
-[16:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[16:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8758ms or 175 ticks behind
-[16:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[16:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[16:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
-[16:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
-[16:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[16:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
-[16:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:57:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10758, l='world', x=-147.21, y=64.32, z=-119.31]
-[16:57:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10758, l='world', x=-147.21, y=64.32, z=-119.31]
-[16:57:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10758, l='world', x=-147.21, y=64.32, z=-119.31]
-[16:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
-[16:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:59:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
-[17:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[17:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[17:01:43] [Server thread/INFO]: Narawich has made the advancement [Ice Bucket Challenge]
-[17:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[17:04:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[17:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6929ms or 138 ticks behind
-[17:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[17:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9192ms or 183 ticks behind
-[17:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
-[17:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[17:06:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
-[17:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
-[17:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4570ms or 91 ticks behind
-[17:07:01] [Server thread/WARN]: Narawich moved too quickly! -15.749825043903911,-5.766834411571722,6.113978479730747
-[17:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
-[17:07:31] [Server thread/INFO]: NatdanaiKH has made the advancement [A Seedy Place]
-[17:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[17:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8309ms or 166 ticks behind
-[17:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
-[17:10:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14543, l='world', x=-132.58, y=64.32, z=-115.79]
-[17:10:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14543, l='world', x=-132.58, y=64.32, z=-115.79]
-[17:10:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14543, l='world', x=-132.58, y=64.32, z=-115.79]
-[17:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[17:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
-[17:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
-[17:13:35] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID c2cedb5a-f9ad-440e-9e7a-5ce89cd9c781
-[17:13:35] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID d104a3d9-8c60-4cbb-a951-665ebe30354f
-[17:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
-[17:13:54] [Server thread/WARN]: Aw14 moved too quickly! 3.2518498732115404,4.074554579996132,-17.312487805184446
-[17:13:54] [Server thread/WARN]: Narawich moved too quickly! 3.1000049806311836,-0.9537823132881726,-17.593921386566763
-[17:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5222ms or 104 ticks behind
-[17:14:48] [Server thread/INFO]: Narawich has made the advancement [Eye Spy]
-[17:14:56] [Server thread/INFO]: Aw14 has made the advancement [Eye Spy]
-[17:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
-[17:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[17:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5338ms or 106 ticks behind
-[17:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[17:26:24] [Server thread/WARN]: Narawich moved too quickly! -1.2123143565394372,3.252203340253729,-9.423880505031015
-[17:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
-[17:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17:31:29] [Server thread/WARN]: Aw14 moved too quickly! -0.325129221346117,1.2000000476837158,-9.992594388902035
-[17:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
-[17:33:08] [Server thread/INFO]: NatdanaiKH lost connection: Timed out
-[17:33:08] [Server thread/INFO]: NatdanaiKH left the game
-[17:33:47] [Server thread/INFO]: NatdanaiKH[/192.168.137.206:63651] logged in with entity id 21825 at (-132.35047615200995, 67.0, -148.6005792812493)
-[17:33:47] [Server thread/INFO]: NatdanaiKH joined the game
-[17:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[17:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
-[17:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[17:40:31] [Server thread/WARN]: Aw14 moved too quickly! 5.697807906894809,0.0625,8.341640497781441
-[17:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15047ms or 300 ticks behind
-[17:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
-[17:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[17:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18128ms or 362 ticks behind
-[17:43:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23014, l='world', x=-148.93, y=64.00, z=-103.36]
-[17:43:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23014, l='world', x=-148.93, y=64.00, z=-103.36]
-[17:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11320ms or 226 ticks behind
-[17:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
-[17:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
-[17:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
-[17:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7254ms or 145 ticks behind
-[17:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6202ms or 124 ticks behind
-[17:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5601ms or 112 ticks behind
-[17:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4966ms or 99 ticks behind
-[17:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
-[17:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
-[17:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
-[17:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:47:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
-[17:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[17:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:48:25] [Server thread/WARN]: Narawich moved too quickly! 10.11948220119308,-0.07840000152587834,0.43614714368587215
-[17:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
-[17:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[17:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2937ms or 58 ticks behind
-[17:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4262ms or 85 ticks behind
-[17:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
-[17:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5583ms or 111 ticks behind
-[17:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
-[17:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[17:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
-[17:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:53:22] [Server thread/INFO]: NatdanaiKH lost connection: Timed out
-[17:53:22] [Server thread/INFO]: NatdanaiKH left the game
-[17:53:41] [Server thread/INFO]: Aw14 has reached the goal [Zombie Doctor]
-[17:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2885ms or 57 ticks behind
-[17:54:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[17:54:25] [Server thread/INFO]: NS1[/127.0.0.1:65327] logged in with entity id 24879 at (-143.42336831859313, 65.9375, -76.01299370405258)
-[17:54:25] [Server thread/INFO]: NS1 joined the game
-[17:54:43] [Server thread/INFO]: NS1 lost connection: Disconnected
-[17:54:43] [Server thread/INFO]: NS1 left the game
-[17:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10876ms or 217 ticks behind
-[17:55:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[17:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11751ms or 235 ticks behind
-[17:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7567ms or 151 ticks behind
-[17:56:13] [Server thread/INFO]: NatdanaiKH[/10.0.123.218:63978] logged in with entity id 25093 at (-136.97018100028424, 63.0, -127.6786673962603)
-[17:56:13] [Server thread/INFO]: NatdanaiKH joined the game
-[17:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[17:56:15] [Server thread/INFO]: AFK fish[/127.0.0.1:65426] logged in with entity id 25105 at (-138.82112696815736, 66.0, -64.03183216589133)
-[17:56:15] [Server thread/INFO]: AFK fish joined the game
-[17:56:39] [Server thread/INFO]: Aw14 lost connection: Disconnected
-[17:56:39] [Server thread/INFO]: Aw14 left the game
-[17:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17395ms or 347 ticks behind
-[17:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
-[17:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
-[17:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
-[17:57:53] [Server thread/INFO]: AFK fish lost connection: Disconnected
-[17:57:53] [Server thread/INFO]: AFK fish left the game
-[17:57:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
-[17:58:27] [Server thread/INFO]: Aw14[/10.0.30.181:57328] logged in with entity id 25366 at (-147.6580471522277, 65.11425927506424, -173.818122905788)
-[17:58:27] [Server thread/INFO]: Aw14 joined the game
-[17:59:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[17:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[18:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14302ms or 286 ticks behind
-[18:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10738ms or 214 ticks behind
-[18:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18:01:11] [Server thread/INFO]: AFK fish[/127.0.0.1:49193] logged in with entity id 25795 at (-115.37703413250881, 63.0, -79.71017338247859)
-[18:01:11] [Server thread/INFO]: AFK fish joined the game
-[18:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15067ms or 301 ticks behind
-[18:01:40] [Server thread/INFO]: AFK fish lost connection: Disconnected
-[18:01:40] [Server thread/INFO]: AFK fish left the game
-[18:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
-[18:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
-[18:03:43] [Server thread/INFO]: NatdanaiKH lost connection: Timed out
-[18:03:43] [Server thread/INFO]: NatdanaiKH left the game
-[18:04:57] [Server thread/INFO]: NatdanaiKH[/10.0.123.218:64008] logged in with entity id 26751 at (-122.29776500274959, 64.0, -144.8250057100039)
-[18:04:57] [Server thread/INFO]: NatdanaiKH joined the game
-[18:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3517ms or 70 ticks behind
-[18:08:18] [Server thread/WARN]: Aw14 moved too quickly! -6.533890976923544,-2.7531999805212024,7.284942823615218
-[18:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
-[18:09:41] [Server thread/INFO]: Aw14 lost connection: Disconnected
-[18:09:41] [Server thread/INFO]: Aw14 left the game
-[18:09:41] [Server thread/INFO]: Aw14[/192.168.137.149:57358] logged in with entity id 28004 at (-112.70117824533273, 67.0, -106.61336106461182)
-[18:09:41] [Server thread/INFO]: Aw14 joined the game
-[18:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[18:10:30] [Server thread/WARN]: Aw14 moved too quickly! -9.904377053187929,-0.02442408821369213,2.386856920475111
-[18:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18:10:50] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/28352, l='world', x=-224.56, y=59.10, z=-120.74]
-[18:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18:11:15] [Server thread/WARN]: Aw14 moved too quickly! -6.908027895340197,0.0,-7.409978522065018
-[18:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
-[18:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[18:12:17] [Server thread/WARN]: NatdanaiKH moved too quickly! 2.6832297154053606,0.0,9.701521118836425
-[18:12:17] [Server thread/WARN]: Aw14 moved too quickly! -9.939209324055938,1.130906499714527,-2.043885152049512
-[18:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[18:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
-[18:13:01] [Server thread/INFO]: <Aw14> tgrg
-[18:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
-[18:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:13:40] [Server thread/INFO]: NatdanaiKH has made the advancement [Not Today, Thank You]
-[18:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
-[18:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
-[18:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
-[18:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4078ms or 81 ticks behind
-[18:16:43] [Server thread/WARN]: Narawich moved too quickly! -5.671374688331454,0.0,-8.52518682880222
-[18:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
-[18:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[18:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9525ms or 190 ticks behind
-[18:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7343ms or 146 ticks behind
-[18:22:05] [Server thread/WARN]: NatdanaiKH moved too quickly! -2.181998674113288,-0.0625,-10.016719237631733
-[18:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
-[18:26:52] [Server thread/INFO]: <Aw14> 674 -1527
-[18:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
-[18:27:21] [Server thread/INFO]: <Narawich> x = 84
-[18:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:28:24] [Server thread/INFO]: NatdanaiKH hit the ground too hard
-[18:28:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34339, l='world', x=-148.97, y=64.00, z=-103.63]
-[18:32:13] [Server thread/WARN]: NatdanaiKH moved too quickly! -1.3944436304795431,-0.004799122994072036,9.985290222706794
-[18:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3192ms or 63 ticks behind
-[18:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18:36:56] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
-[18:36:56] [Server thread/INFO]: NatdanaiKH left the game
-[18:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[18:37:18] [Server thread/INFO]: Aw14 lost connection: Disconnected
-[18:37:18] [Server thread/INFO]: Aw14 left the game
-[18:37:19] [Server thread/INFO]: NatdanaiKH[/10.0.123.218:64045] logged in with entity id 36310 at (-130.21621172356708, 63.0, -109.74375000596051)
-[18:37:19] [Server thread/INFO]: NatdanaiKH joined the game
-[18:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8009ms or 160 ticks behind
-[18:37:49] [Server thread/INFO]: Aw14[/192.168.137.149:57483] logged in with entity id 36419 at (132.50365509274204, 48.121296840539195, -159.39514360173493)
-[18:37:49] [Server thread/INFO]: Aw14 joined the game
-[18:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:02:28] [Server thread/INFO]: NatdanaiKH has made the advancement [What a Deal!]
-[19:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
-[19:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
-[19:10:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42995, l='world', x=-149.04, y=64.00, z=-103.10]
-[19:10:34] [Server thread/INFO]: Narawich has made the advancement [Best Friends Forever]
-[19:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[19:11:50] [Server thread/WARN]: Horse moved wrongly!
-[19:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
-[19:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[19:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:16:59] [Server thread/INFO]: Narawich lost connection: Disconnected
-[19:16:59] [Server thread/INFO]: Narawich left the game
-[19:17:13] [Server thread/INFO]: Narawich[/192.168.137.1:50777] logged in with entity id 45495 at (-389.6330062393495, 67.0, -469.5512876764352)
-[19:17:13] [Server thread/INFO]: Narawich joined the game
-[19:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
-[19:18:37] [Server thread/INFO]: <Narawich> -384 -451
-[19:19:14] [Server thread/INFO]: <Narawich> -48 -56
-[19:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[19:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
-[19:23:05] [Server thread/INFO]: NatdanaiKH was slain by Iron Golem
-[19:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[19:33:02] [Server thread/WARN]: Aw14 moved too quickly! 1.7129823785052452,0.0,9.856590044959916
-[19:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
-[19:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[19:45:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[19:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
-[19:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[19:53:13] [Server thread/WARN]: Aw14 moved too quickly! 1.0642692336327855,0.0,10.156985764379783
-[19:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
-[19:57:25] [Server thread/INFO]: Narawich lost connection: Disconnected
-[19:57:25] [Server thread/INFO]: Narawich left the game
-[20:06:18] [Server thread/INFO]: NatdanaiKH has made the advancement [Suit Up]
-[20:15:38] [Server thread/INFO]: Narawich[/127.0.0.1:52153] logged in with entity id 60196 at (-120.65385062902078, 64.0, -90.65630821044961)
-[20:15:38] [Server thread/INFO]: Narawich joined the game
-[20:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
-[20:48:28] [Server thread/INFO]: NatdanaiKH has made the advancement [Local Brewery]
-[20:56:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66767, l='world', x=-126.50, y=64.26, z=-143.44]
-[20:56:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66767, l='world', x=-126.50, y=64.26, z=-143.44]
-[20:57:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/67007, l='world', x=-130.93, y=65.32, z=-151.47]
-[20:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:59:46] [Server thread/INFO]: Aw14 lost connection: Disconnected
-[20:59:46] [Server thread/INFO]: Aw14 left the game
-[21:00:24] [Server thread/INFO]: Narawich lost connection: Disconnected
-[21:00:24] [Server thread/INFO]: Narawich left the game
-[21:02:10] [Server thread/INFO]: NatdanaiKH lost connection: Disconnected
-[21:02:10] [Server thread/INFO]: NatdanaiKH left the game
-[22:25:49] [Server thread/INFO]: Stopping the server
-[22:25:49] [Server thread/INFO]: Stopping server
-[22:25:49] [Server thread/INFO]: Saving players
-[22:25:49] [Server thread/INFO]: Saving worlds
-[22:25:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:25:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:25:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:25:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:12:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11131, l='world', x=-148.15, y=64.00, z=-96.89]
+[00:13:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11308, l='world', x=-148.65, y=64.26, z=-136.66]
+[00:16:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11876, l='world', x=-145.55, y=64.00, z=-96.51]
+[00:53:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/14915, l='world', x=-139.75, y=64.88, z=-137.25]
+[01:06:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/16129, l='world', x=-147.91, y=64.00, z=-96.71]
+[01:21:25] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[01:21:25] [Server thread/INFO]: Aw14 left the game
+[01:39:23] [Server thread/INFO]: Narawich[/127.0.0.1:57612] logged in with entity id 17302 at (-116.78144273275048, 63.0625, -79.86120230896674)
+[01:39:24] [Server thread/INFO]: Narawich joined the game
+[01:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:46:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17856, l='world', x=-149.17, y=64.00, z=-96.06]
+[01:53:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/18538, l='world', x=-129.31, y=64.32, z=-124.45]
+[01:53:49] [Server thread/INFO]: Aw14[/192.168.137.149:52673] logged in with entity id 18597 at (-132.59541966253627, 66.0, -108.68738340966509)
+[01:53:49] [Server thread/INFO]: Aw14 joined the game
+[02:01:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19550, l='world', x=-142.57, y=64.88, z=-133.17]
+[02:01:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19550, l='world', x=-142.57, y=64.88, z=-133.17]
+[02:01:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19597, l='world', x=-140.73, y=64.26, z=-131.46]
+[02:01:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19597, l='world', x=-140.73, y=64.26, z=-131.46]
+[02:13:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21376, l='world', x=-132.82, y=64.26, z=-129.74]
+[02:13:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21376, l='world', x=-132.82, y=64.26, z=-129.74]
+[02:14:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21409, l='world', x=-134.36, y=64.26, z=-129.82]
+[02:14:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21409, l='world', x=-134.36, y=64.26, z=-129.82]
+[02:22:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/22805, l='world', x=-133.90, y=64.32, z=-118.17]
+[02:22:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/22805, l='world', x=-133.90, y=64.32, z=-118.17]
+[02:24:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23103, l='world', x=-138.77, y=64.00, z=-96.84]
+[02:24:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23103, l='world', x=-138.77, y=64.00, z=-96.84]
+[02:44:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25786, l='world', x=-147.93, y=64.00, z=-96.47]
+[02:44:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25786, l='world', x=-147.93, y=64.00, z=-96.47]
+[02:46:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25940, l='world', x=-147.40, y=64.00, z=-95.96]
+[02:46:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25940, l='world', x=-147.40, y=64.00, z=-95.96]
+[03:01:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/27832, l='world', x=-149.55, y=64.26, z=-125.57]
+[03:01:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/27832, l='world', x=-149.55, y=64.26, z=-125.57]
+[03:13:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29263, l='world', x=-135.50, y=64.26, z=-126.50]
+[03:13:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29263, l='world', x=-135.50, y=64.26, z=-126.50]
+[03:13:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29264, l='world', x=-135.47, y=64.26, z=-126.48]
+[03:13:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29264, l='world', x=-135.47, y=64.26, z=-126.48]
+[03:22:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30664, l='world', x=-147.29, y=64.88, z=-138.55]
+[03:22:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30667, l='world', x=-147.29, y=64.88, z=-138.55]
+[03:22:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30779, l='world', x=-132.45, y=64.26, z=-129.77]
+[03:22:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30779, l='world', x=-132.45, y=64.26, z=-129.77]
+[03:22:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30843, l='world', x=-134.02, y=64.32, z=-113.94]
+[03:22:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30843, l='world', x=-134.02, y=64.32, z=-113.94]
+[03:34:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31734, l='world', x=-131.72, y=64.26, z=-136.52]
+[03:34:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/31734, l='world', x=-131.72, y=64.26, z=-136.52]
+[03:42:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32667, l='world', x=-140.86, y=64.26, z=-124.90]
+[03:42:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32667, l='world', x=-140.86, y=64.26, z=-124.90]
+[03:52:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33560, l='world', x=-148.49, y=64.32, z=-109.92]
+[03:52:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33560, l='world', x=-148.49, y=64.32, z=-109.92]
+[03:53:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33600, l='world', x=-143.47, y=64.88, z=-136.73]
+[03:53:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33600, l='world', x=-143.47, y=64.88, z=-136.73]
+[04:01:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35021, l='world', x=-140.25, y=64.26, z=-107.78]
+[04:01:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35021, l='world', x=-140.25, y=64.26, z=-107.78]
+[04:02:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35257, l='world', x=-131.52, y=63.84, z=-110.52]
+[04:02:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35257, l='world', x=-131.52, y=63.84, z=-110.52]
+[04:02:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35287, l='world', x=-115.74, y=64.26, z=-114.66]
+[04:02:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35287, l='world', x=-115.74, y=64.26, z=-114.66]
+[04:14:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36357, l='world', x=-142.54, y=64.32, z=-129.49]
+[04:14:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36357, l='world', x=-142.54, y=64.32, z=-129.49]
+[04:53:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40390, l='world', x=-147.98, y=64.32, z=-109.78]
+[04:53:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40390, l='world', x=-147.98, y=64.32, z=-109.78]
+[05:14:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42792, l='world', x=-130.41, y=64.26, z=-137.73]
+[05:14:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42792, l='world', x=-130.41, y=64.26, z=-137.73]
+[05:21:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43771, l='world', x=-129.47, y=64.26, z=-138.32]
+[05:21:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43771, l='world', x=-129.47, y=64.26, z=-138.32]
+[05:22:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43944, l='world', x=-129.46, y=64.26, z=-139.16]
+[05:33:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44806, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44806, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44831, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44831, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44846, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44846, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44859, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44859, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44882, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44882, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44899, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44899, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44915, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44915, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44930, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44930, l='world', x=-154.98, y=64.32, z=-109.68]
+[05:33:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44942, l='world', x=-140.36, y=64.26, z=-126.62]
+[05:33:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/44942, l='world', x=-140.36, y=64.26, z=-126.62]
+[05:34:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45205, l='world', x=-147.54, y=65.05, z=-137.07]
+[05:34:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45205, l='world', x=-147.54, y=65.05, z=-137.07]
+[05:42:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46032, l='world', x=-136.73, y=64.26, z=-116.55]
+[05:42:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46032, l='world', x=-136.73, y=64.26, z=-116.55]
+[05:42:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46035, l='world', x=-136.73, y=64.26, z=-116.55]
+[05:42:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46035, l='world', x=-136.73, y=64.26, z=-116.55]
+[05:46:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46388, l='world', x=-148.12, y=64.00, z=-96.39]
+[05:46:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46388, l='world', x=-148.12, y=64.00, z=-96.39]
+[05:53:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46919, l='world', x=-142.28, y=64.88, z=-137.77]
+[05:53:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46919, l='world', x=-142.28, y=64.88, z=-137.77]
+[05:53:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46929, l='world', x=-138.53, y=64.26, z=-114.67]
+[05:53:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/46929, l='world', x=-138.53, y=64.26, z=-114.67]
+[06:13:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48710, l='world', x=-141.53, y=64.26, z=-109.47]
+[06:13:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48710, l='world', x=-141.53, y=64.26, z=-109.47]
+[06:14:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49101, l='world', x=-139.25, y=64.26, z=-108.74]
+[06:14:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/49101, l='world', x=-139.25, y=64.26, z=-108.74]
+[06:33:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50900, l='world', x=-149.37, y=64.32, z=-109.56]
+[06:33:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50900, l='world', x=-149.37, y=64.32, z=-109.56]
+[06:33:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51000, l='world', x=-149.57, y=64.32, z=-110.04]
+[06:33:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51000, l='world', x=-149.57, y=64.32, z=-110.04]
+[06:33:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51003, l='world', x=-149.51, y=64.32, z=-110.01]
+[06:33:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51003, l='world', x=-149.51, y=64.32, z=-110.01]
+[06:52:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53456, l='world', x=-148.88, y=64.32, z=-110.45]
+[06:52:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53456, l='world', x=-148.88, y=64.32, z=-110.45]
+[07:01:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54874, l='world', x=-142.90, y=64.88, z=-137.23]
+[07:01:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54874, l='world', x=-142.90, y=64.88, z=-137.23]
+[07:20:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57213, l='world', x=-129.37, y=64.32, z=-113.61]
+[07:20:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57213, l='world', x=-129.37, y=64.32, z=-113.61]
+[07:33:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58555, l='world', x=-151.54, y=64.88, z=-138.31]
+[07:33:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58555, l='world', x=-151.54, y=64.88, z=-138.31]
+[07:33:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58615, l='world', x=-150.35, y=64.88, z=-137.69]
+[07:33:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58615, l='world', x=-150.35, y=64.88, z=-137.69]
+[07:53:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60328, l='world', x=-147.50, y=64.88, z=-138.70]
+[07:53:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60469, l='world', x=-131.44, y=64.26, z=-132.41]
+[07:53:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60469, l='world', x=-131.44, y=64.26, z=-132.41]
+[07:53:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60483, l='world', x=-141.46, y=64.26, z=-119.74]
+[07:53:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60483, l='world', x=-141.46, y=64.26, z=-119.74]
+[07:54:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60621, l='world', x=-142.34, y=64.26, z=-119.34]
+[07:54:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/60621, l='world', x=-142.34, y=64.26, z=-119.34]
+[08:13:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62586, l='world', x=-145.31, y=64.88, z=-137.53]
+[08:13:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62586, l='world', x=-145.31, y=64.88, z=-137.53]
+[08:13:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62592, l='world', x=-138.36, y=64.26, z=-136.70]
+[08:13:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62592, l='world', x=-138.36, y=64.26, z=-136.70]
+[08:13:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62608, l='world', x=-143.70, y=64.32, z=-136.70]
+[08:13:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62608, l='world', x=-143.70, y=64.32, z=-136.70]
+[08:13:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62797, l='world', x=-146.50, y=64.88, z=-108.68]
+[08:13:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/62797, l='world', x=-146.50, y=64.88, z=-108.68]
+[08:22:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63704, l='world', x=-142.39, y=64.26, z=-136.30]
+[08:22:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63704, l='world', x=-142.39, y=64.26, z=-136.30]
+[08:22:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63712, l='world', x=-142.39, y=64.26, z=-136.30]
+[08:22:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63712, l='world', x=-142.39, y=64.26, z=-136.30]
+[08:22:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63826, l='world', x=-146.24, y=64.88, z=-137.55]
+[08:22:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63826, l='world', x=-146.24, y=64.88, z=-137.55]
+[08:22:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63852, l='world', x=-146.08, y=64.88, z=-137.58]
+[08:22:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63852, l='world', x=-146.08, y=64.88, z=-137.58]
+[08:22:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63858, l='world', x=-145.90, y=64.88, z=-137.62]
+[08:22:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63858, l='world', x=-145.90, y=64.88, z=-137.62]
+[08:23:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63910, l='world', x=-147.90, y=64.00, z=-96.55]
+[08:23:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/63910, l='world', x=-147.90, y=64.00, z=-96.55]
+[08:32:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/64398, l='world', x=-149.63, y=64.88, z=-138.49]
+[08:32:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/64398, l='world', x=-149.63, y=64.88, z=-138.49]
+[09:13:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69746, l='world', x=-149.52, y=64.26, z=-136.70]
+[09:13:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69746, l='world', x=-149.52, y=64.26, z=-136.70]
+[09:13:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69881, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69881, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69884, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69884, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69887, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69887, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69890, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69890, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69894, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69894, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69902, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69902, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69905, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69905, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69913, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69913, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69918, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69918, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69921, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69921, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69924, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69924, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69928, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69928, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69944, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:40] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69944, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69947, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69947, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69950, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69950, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69953, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69953, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69956, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69956, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69959, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69959, l='world', x=-136.77, y=64.32, z=-135.55]
+[09:13:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69962, l='world', x=-136.54, y=64.32, z=-135.49]
+[09:13:46] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/69962, l='world', x=-136.54, y=64.32, z=-135.49]
+[09:14:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/70160, l='world', x=-148.49, y=64.00, z=-96.87]
+[09:14:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/70160, l='world', x=-148.49, y=64.00, z=-96.87]
+[09:20:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/70826, l='world', x=-129.72, y=64.32, z=-113.49]
+[09:20:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/70826, l='world', x=-129.72, y=64.32, z=-113.49]
+[09:21:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71016, l='world', x=-132.37, y=64.32, z=-139.30]
+[09:21:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71019, l='world', x=-132.53, y=64.32, z=-139.30]
+[09:33:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72036, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72036, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72153, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72153, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72184, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72184, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72269, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:33:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72269, l='world', x=-152.59, y=65.32, z=-129.33]
+[09:34:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72314, l='world', x=-152.54, y=65.32, z=-128.66]
+[09:34:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72314, l='world', x=-152.54, y=65.32, z=-128.66]
+[09:34:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72332, l='world', x=-152.34, y=65.32, z=-131.49]
+[09:34:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/72332, l='world', x=-152.34, y=65.32, z=-131.49]
+[09:48:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/73521, l='world', x=-148.46, y=64.00, z=-96.09]
+[09:48:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/73521, l='world', x=-148.46, y=64.00, z=-96.09]
+[10:13:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76059, l='world', x=-152.34, y=64.88, z=-107.43]
+[10:13:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76059, l='world', x=-152.34, y=64.88, z=-107.43]
+[10:14:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76150, l='world', x=-153.81, y=64.88, z=-107.69]
+[10:14:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76150, l='world', x=-153.81, y=64.88, z=-107.69]
+[10:21:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76878, l='world', x=-145.65, y=64.88, z=-137.76]
+[10:21:47] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/76878, l='world', x=-145.65, y=64.88, z=-137.76]
+[10:40:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/78724, l='world', x=-127.43, y=64.26, z=-135.34]
+[10:40:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/78724, l='world', x=-127.43, y=64.26, z=-135.34]
+[10:53:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79744, l='world', x=-155.40, y=65.26, z=-129.23]
+[10:53:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79744, l='world', x=-155.40, y=65.26, z=-129.23]
+[10:53:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79753, l='world', x=-151.26, y=64.44, z=-136.05]
+[10:53:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79753, l='world', x=-151.26, y=64.44, z=-136.05]
+[10:53:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79757, l='world', x=-154.36, y=65.26, z=-128.35]
+[10:53:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79757, l='world', x=-154.36, y=65.26, z=-128.35]
+[10:53:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79780, l='world', x=-132.75, y=64.26, z=-133.69]
+[10:53:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79780, l='world', x=-132.75, y=64.26, z=-133.69]
+[10:55:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79932, l='world', x=-137.78, y=64.00, z=-103.48]
+[10:55:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/79932, l='world', x=-137.78, y=64.00, z=-103.48]
+[11:00:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80355, l='world', x=-125.02, y=64.26, z=-129.01]
+[11:00:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80355, l='world', x=-125.02, y=64.26, z=-129.01]
+[11:02:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80550, l='world', x=-134.71, y=64.26, z=-126.65]
+[11:02:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80550, l='world', x=-134.71, y=64.26, z=-126.65]
+[11:02:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80593, l='world', x=-136.83, y=64.26, z=-126.39]
+[11:02:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/80593, l='world', x=-136.83, y=64.26, z=-126.39]
+[11:18:25] [Server thread/INFO]: Narawich lost connection: Disconnected
+[11:18:25] [Server thread/INFO]: Narawich left the game
+[11:33:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/83001, l='world', x=-133.75, y=64.26, z=-129.59]
+[11:34:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/83188, l='world', x=-148.70, y=64.32, z=-110.54]
+[11:34:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/83203, l='world', x=-150.33, y=64.32, z=-109.36]
+[11:40:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84134, l='world', x=-147.48, y=64.43, z=-135.50]
+[11:41:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84441, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:41:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84454, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84467, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84480, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84495, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84503, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84520, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84533, l='world', x=-143.61, y=64.32, z=-135.64]
+[11:42:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84550, l='world', x=-143.43, y=64.88, z=-137.11]
+[11:42:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/84632, l='world', x=-142.59, y=64.26, z=-136.70]
+[11:53:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85430, l='world', x=-148.31, y=64.88, z=-137.57]
+[11:53:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85433, l='world', x=-148.23, y=64.88, z=-137.51]
+[11:53:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85440, l='world', x=-148.23, y=64.88, z=-137.51]
+[11:53:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85443, l='world', x=-148.23, y=64.88, z=-137.51]
+[11:53:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85450, l='world', x=-148.23, y=64.88, z=-137.51]
+[11:53:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85453, l='world', x=-148.18, y=64.88, z=-137.64]
+[11:53:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85460, l='world', x=-148.05, y=64.88, z=-137.68]
+[11:53:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85548, l='world', x=-149.48, y=64.88, z=-137.88]
+[11:54:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85582, l='world', x=-148.41, y=64.88, z=-137.65]
+[11:54:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85594, l='world', x=-148.21, y=64.88, z=-138.38]
+[11:54:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/85674, l='world', x=-154.41, y=65.26, z=-134.31]
+[12:01:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/86487, l='world', x=-145.19, y=64.26, z=-117.73]
+[12:02:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/86602, l='world', x=-123.46, y=64.26, z=-128.32]
+[12:14:23] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/87356, l='world', x=-151.35, y=64.88, z=-136.93]
+[12:33:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/88941, l='world', x=-149.02, y=64.26, z=-136.30]
+[12:33:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/88958, l='world', x=-147.68, y=64.26, z=-135.53]
+[12:33:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/88964, l='world', x=-149.02, y=64.26, z=-136.30]
+[12:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[12:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[12:54:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/91164, l='world', x=-146.39, y=64.32, z=-132.32]
+[13:07:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/92270, l='world', x=-148.56, y=64.00, z=-96.55]
+[13:11:55] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/92404, l='world', x=-148.52, y=64.00, z=-103.11]
+[13:42:29] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/94921, l='world', x=-140.22, y=64.26, z=-127.62]
+[13:53:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/95572, l='world', x=-149.51, y=64.32, z=-135.22]
+[13:53:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/95576, l='world', x=-149.36, y=64.26, z=-135.59]
+[13:53:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/95579, l='world', x=-149.45, y=64.32, z=-134.79]
+[13:53:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/95582, l='world', x=-149.45, y=64.32, z=-134.79]
+[13:54:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/95682, l='world', x=-148.61, y=64.26, z=-136.09]
+[14:00:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96351, l='world', x=-125.57, y=64.26, z=-136.56]
+[14:01:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96379, l='world', x=-124.73, y=64.26, z=-134.35]
+[14:01:17] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96438, l='world', x=-126.41, y=64.26, z=-136.20]
+[14:01:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96593, l='world', x=-125.44, y=64.26, z=-132.01]
+[14:02:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96614, l='world', x=-128.32, y=64.26, z=-132.46]
+[14:02:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96617, l='world', x=-128.24, y=64.26, z=-132.24]
+[14:02:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96625, l='world', x=-125.30, y=64.13, z=-131.30]
+[14:02:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/96633, l='world', x=-127.57, y=64.26, z=-131.99]
+[14:21:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/98503, l='world', x=-125.40, y=64.26, z=-113.73]
+[14:34:12] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/99215, l='world', x=-138.20, y=64.88, z=-137.58]
+[15:01:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/101367, l='world', x=-137.26, y=64.26, z=-118.37]
+[15:01:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/101475, l='world', x=-140.32, y=64.00, z=-117.25]
+[15:13:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/102165, l='world', x=-146.18, y=64.88, z=-137.49]
+[15:13:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/102179, l='world', x=-146.18, y=64.88, z=-137.49]
+[15:13:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/102193, l='world', x=-146.11, y=64.88, z=-137.49]
+[15:13:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/102206, l='world', x=-146.10, y=64.88, z=-137.49]
+[16:02:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/106978, l='world', x=-141.69, y=64.26, z=-118.85]
+[16:02:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/106987, l='world', x=-130.89, y=64.26, z=-136.26]
+[16:13:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/107291, l='world', x=-132.48, y=64.26, z=-120.74]
+[16:14:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/107468, l='world', x=-145.32, y=64.26, z=-117.53]
+[16:22:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108230, l='world', x=-138.24, y=64.32, z=-124.70]
+[16:22:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/108236, l='world', x=-138.24, y=64.32, z=-124.70]
+[16:39:19] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[16:39:19] [Server thread/INFO]: Aw14 left the game
+[17:22:05] [Server thread/INFO]: Aw14[/192.168.137.149:53106] logged in with entity id 108983 at (-136.71792223382678, 66.0, -74.62624460676992)
+[17:22:05] [Server thread/INFO]: Aw14 joined the game
+[17:25:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109461, l='world', x=-144.48, y=64.26, z=-136.37]
+[17:25:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109491, l='world', x=-144.48, y=64.26, z=-136.37]
+[17:25:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109494, l='world', x=-144.48, y=64.26, z=-136.37]
+[17:25:26] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109569, l='world', x=-148.62, y=64.32, z=-109.55]
+[17:25:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109573, l='world', x=-144.50, y=64.88, z=-138.29]
+[17:26:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109683, l='world', x=-144.69, y=64.32, z=-136.28]
+[17:26:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/109689, l='world', x=-144.69, y=64.32, z=-136.28]
+[17:33:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/110314, l='world', x=-150.11, y=64.32, z=-129.35]
+[18:06:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/115897, l='world', x=-122.43, y=64.26, z=-110.51]
+[18:06:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/116087, l='world', x=-146.28, y=64.32, z=-132.62]
+[18:06:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/116101, l='world', x=-146.28, y=64.32, z=-132.62]
+[18:06:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/116116, l='world', x=-146.28, y=64.32, z=-132.62]
+[18:06:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/116121, l='world', x=-146.28, y=64.32, z=-132.62]
+[18:06:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/116135, l='world', x=-146.28, y=64.32, z=-132.62]
+[18:06:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/116140, l='world', x=-146.28, y=64.32, z=-132.62]
+[18:10:59] [Server thread/WARN]: Keeping entity minecraft:cod that already exists with UUID 08498f74-ccab-4bde-a00c-75d1b2779fec
+[18:10:59] [Server thread/WARN]: Keeping entity minecraft:cod that already exists with UUID 29fe812f-7e5c-4dbe-aa85-19bcb49dcf6c
+[18:15:06] [Server thread/WARN]: Aw14 moved too quickly! 6.867444682942505,-4.420772993152632,5.908252623722532
+[18:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[18:27:19] [Server thread/WARN]: Aw14 moved too quickly! -5.435050287254171,4.032157942024433,7.50043143178965
+[18:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18:54:23] [Server thread/INFO]: <Aw14> 1600 -439
+[18:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[18:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7432ms or 148 ticks behind
+[18:56:28] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[18:56:28] [Server thread/INFO]: Aw14 left the game
+[19:39:40] [Server thread/INFO]: Aw14[/192.168.137.149:64402] logged in with entity id 129118 at (1658.6949894770814, 67.0, -497.6938425702436)
+[19:39:40] [Server thread/INFO]: Aw14 joined the game
+[19:40:20] [Server thread/WARN]: Aw14 moved too quickly! 8.152875744999392,1.0114397976661635,5.725213550272656
+[19:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[19:40:38] [Server thread/WARN]: Aw14 moved too quickly! -4.57800143303416,-0.6100636920725719,-8.934597671607662
+[19:41:51] [Server thread/WARN]: Aw14 moved too quickly! -7.239951916617201,-0.42639576344196684,-6.988292467331348
+[19:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:48:32] [Server thread/INFO]: Aw14 lost connection: Disconnected
+[19:48:32] [Server thread/INFO]: Aw14 left the game
+[19:48:52] [Server thread/INFO]: Stopping the server
+[19:48:52] [Server thread/INFO]: Stopping server
+[19:48:52] [Server thread/INFO]: Saving players
+[19:48:52] [Server thread/INFO]: Saving worlds
+[19:48:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:48:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:48:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:48:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
